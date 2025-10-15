@@ -1,0 +1,18 @@
+# Journey of Linux and shell scripting
+
+Day 1 14-10-2025
+#Shell Scripting & Linux commands
+What I learned yesterday:
+- Basics of Linux commands: mkdir, rmdir, touch, vi, ls, cd, chmod, cat, man, 
+- Importance of shebang (#!/bin/bash) in shell scripts indicates a which interpreter to run that script.
+- Created a simple automation shell script that: 
+  1. Creates a folder 
+  2. Creates files inside that folder 
+- Understood why shell scripting is used: automation, integration, reusability, and saving time for 
+  repetitive tasks. 
+
+Experience: 
+- Gained confidence using Linux commands and shell scripting for simple tasks.
+
+Day 2 15-10-2025
+

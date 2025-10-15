@@ -15,4 +15,9 @@ Experience:
 - Gained confidence using Linux commands and shell scripting for simple tasks.
 
 Day 2 15-10-2025
-
+- Learned Ubuntu file system navigation (ls, cd, pwd) and handling folder names with spaces using quotes "".
+- Created a shell script to backup 
+  window file sys - /mnt/k/Clg_Notes/3 sem Notes  " to "
+  Linux file sys - /home/keshava/project_backup1/docs.
+- Used commands: mkdir -p, cp -r, echo, date
+- Script prints a success message with timestamp; and verified files copied successfully.
